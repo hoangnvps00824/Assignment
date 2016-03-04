@@ -1,0 +1,3 @@
+C:\Users\Duc\Downloads\PhungLV-Assig9\PhungLV-Assig9\bin\Debug\PhungLV-Assig9.exe.config
+C:\Users\Duc\Downloads\PhungLV-Assig9\PhungLV-Assig9\obj\Debug\PhungLV-Assig9.exe
+C:\Users\Duc\Downloads\PhungLV-Assig9\PhungLV-Assig9\obj\Debug\PhungLV-Assig9.pdb

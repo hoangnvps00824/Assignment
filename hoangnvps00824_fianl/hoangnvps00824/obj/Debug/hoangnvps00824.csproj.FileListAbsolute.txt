@@ -1,0 +1,9 @@
+C:\Users\Duc\Downloads\PhungLV-Assig9\PhungLV-Assig9\bin\Debug\PhungLV-Assig9.exe.config
+C:\Users\Duc\Downloads\PhungLV-Assig9\PhungLV-Assig9\bin\Debug\PhungLV-Assig9.exe
+C:\Users\Duc\Downloads\PhungLV-Assig9\PhungLV-Assig9\bin\Debug\PhungLV-Assig9.pdb
+C:\Users\Duc\Downloads\PhungLV-Assig9\PhungLV-Assig9\obj\Debug\PhungLV_Assig9.frmBioMedic.resources
+C:\Users\Duc\Downloads\PhungLV-Assig9\PhungLV-Assig9\obj\Debug\PhungLV_Assig9.Properties.Resources.resources
+C:\Users\Duc\Downloads\PhungLV-Assig9\PhungLV-Assig9\obj\Debug\hoangnvps00824.csproj.GenerateResource.Cache
+C:\Users\Duc\Downloads\PhungLV-Assig9\PhungLV-Assig9\obj\Debug\PhungLV-Assig9.exe
+C:\Users\Duc\Downloads\PhungLV-Assig9\PhungLV-Assig9\obj\Debug\PhungLV-Assig9.pdb
+C:\Users\Duc\Downloads\PhungLV-Assig9\PhungLV-Assig9\obj\Debug\hoangnvps00824.csprojResolveAssemblyReference.cache
